@@ -28,7 +28,7 @@
 
 ### Mac系统下载
 
-- [下载地址](https://luomacode-1253302184.cos.ap-beijing.myqcloud.com/chatmoss/ChatMoss.dmg)
+- [下载地址](https://github.com/AICCOF/chatmoss-ui/releases/download/v3.0/CHATMOSS_0.0.4_x64.dmg)
 
 常见问题
 
@@ -38,7 +38,7 @@
 
 ### Window系统
 
-- [下载地址](https://luomacode-1253302184.cos.ap-beijing.myqcloud.com/chatmoss/chatmoss-win64.zip)
+- [下载地址](https://github.com/AICCOF/chatmoss-ui/releases/download/v3.0/CHATMOSS_0.0.4_x64-setup.exe)
 
 ---
 
